@@ -22,7 +22,7 @@ Ai Resume Analyzer is a tool which parses information from a resume using natura
 </div><br/><br/>
 ## About the Project 🥱
 <div align="center">
-    <br/><img src="https://raw.githubusercontent.com/deepakpadhi986/AI-Resume-Analyzer/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
+ 
     <p align="justify"> 
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
